@@ -13,6 +13,6 @@ int main()
 		printf("La cantidad de dolares que tiene Juan es %0.2f\n",J);
 		
 		Total= G+L+J;
-		printf("Entre Guillemor, Luis y Juan juntan %0.2f dolares en total.\n",Total);
+		printf("Entre Guillermo, Luis y Juan juntan %0.2f dolares en total.\n",Total);
 	return 0;
 }
