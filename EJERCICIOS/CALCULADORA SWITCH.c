@@ -5,10 +5,10 @@ int main()
 {
 	int opcion;
 		printf("Opciones");
-		printf("\t\n 1. SUMA");
-		printf("\t\n 2. RESTA");
-		printf("\t\n 3. MULTIPLICACION");
-		printf("\t\n 4. DIVISION");
+		printf("\n 1. SUMA");
+		printf("\n 2. RESTA");
+		printf("\n 3. MULTIPLICACION");
+		printf("\n 4. DIVISION");
 		printf("\t\n 5. POTENCIA");
 		printf("\t\n 6. RAIZ CUADRADA");
 		printf("\t\n 7. SALIR");
